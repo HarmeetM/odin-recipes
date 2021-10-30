@@ -1,0 +1,1 @@
+This is my first HTML project from TOP. It encompasses a few of the HTML skills I just learned such as tags, images, links as well as using the command line to work with Git and GitHub.
